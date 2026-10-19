@@ -1,0 +1,12 @@
+# Jekyll settings for this page.
+#
+# `theme: null` switches the default theme OFF, and it has to be written out:
+# with no theme line at all, GitHub Pages falls back to its own Primer theme,
+# whose layout pulls a stylesheet and a script in from another site. This page
+# is a privacy policy that tells its reader nothing about them is collected, so
+# it loads nothing from anywhere - no theme, no stylesheet, no script, no font,
+# no image, no request that leaves the page. Plain and unstyled is the point,
+# not an oversight.
+
+theme: null
+title: Privacy Policy — VET
